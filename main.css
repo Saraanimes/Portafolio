@@ -66,6 +66,7 @@ h1:hover::after {
 	outline: 5px solid black;
 }
 
+/** social links **/
 ._social-links {
 	position: fixed;
 	right: 0;
